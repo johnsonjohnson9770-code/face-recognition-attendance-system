@@ -1,0 +1,15 @@
+﻿# Biometric / personal data - do not upload
+TrainingImage/
+TrainingImageLabel/
+StudentDetails/
+Attendance/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
